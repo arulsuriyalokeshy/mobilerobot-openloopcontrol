@@ -87,7 +87,6 @@ if _name=='__main_':
 ![robo](./img/robomaster.png)
 ![image](https://github.com/Krishnakanth23006762/mobilerobot-openloopcontrol/assets/138849446/5e3e6480-4356-41cd-983b-7e805d901520)
 ![image](https://github.com/Krishnakanth23006762/mobilerobot-openloopcontrol/assets/138849446/d70fa438-0b4a-4a99-8f31-71d911d103e6)
-![image](https://github.com/Krishnakanth23006762/mobilerobot-openloopcontrol/assets/138849446/43529834-504a-4357-86c2-0a3d21196dc8)
 
 ## MobileRobot Movement Video:
 
